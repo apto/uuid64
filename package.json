@@ -1,6 +1,6 @@
 {
   "name": "uuid64",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Base 64 encoded UUID.",
   "main": "index.js",
   "scripts": {
