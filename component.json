@@ -1,0 +1,9 @@
+{
+  "name": "uuid64",
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {
+    "jdeal/node-uuid": "*"
+  }
+}

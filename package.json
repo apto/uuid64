@@ -1,0 +1,25 @@
+{
+  "name": "uuid64",
+  "version": "0.0.0",
+  "description": "Base 64 encoded UUID.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test/*.js -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/apto/uuid64.git"
+  },
+  "keywords": [
+    "uuid",
+    "base64"
+  ],
+  "author": "Justin Deal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apto/uuid64/issues"
+  },
+  "dependencies": {
+    "node-uuid": "~1.4.0"
+  }
+}
